@@ -1,0 +1,6 @@
+export const ADD_TODO = 'ADD_TODO'
+export const EDIT_TODO = 'EDIT_TODO'
+export const REMOVE_TODO = 'REMOVE_TODO'
+export const CHOOSE_ALL = 'CHOOSE_ALL'
+export const CHOOSE_ONE = 'CHOOSE_ONE'
+export const DEL_CHOSEN = 'DEL_CHOSEN'
